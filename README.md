@@ -5,5 +5,7 @@ A project I worked on for a school assignment where the program takes specific c
 Microsoft Excel (Microsoft office tool)
 
 Python (Programming Language)
+
 Openpyxl (Module for Python)
+
 Tkinter (Module for Python)
